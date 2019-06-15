@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jaehwa Chung's Blog
-subtitle: Your awesome subtitle
+subtitle: Hello, my friend. Listen!
 description: >- # this means to ignore newlines until "baseurl:"
   The way I see the world
 author: Jaehwa Chung
