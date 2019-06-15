@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The way I see the world
 author: Jaehwa Chung
 email: jaehwachung@knou.ac.kr
-avatar: assets/images/avatar.jpg
+avatar: assets/images/Portrait.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
